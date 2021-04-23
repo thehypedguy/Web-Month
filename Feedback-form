@@ -15,8 +15,8 @@ body {
 
 <h1 style="text-align:center;">SONG FEEDBACK FORM</h1><b></b>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Hn4sfC2PbhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<a style="color:blue" href="https://youtu.be/2ocykBzWDiM">CLICK HERE TO WATCH THIS VIDEO ON YOUTUBE!!!</a>
-<form style="color:white" action="https://youtu.be/2ocykBzWDiM" >
+<a style="color:blue" href="https://youtu.be/2ocykBzWDiM" target="_blank">CLICK HERE TO WATCH THIS VIDEO ON YOUTUBE!!!</a>
+<form style="color:white" action="https://youtu.be/2ocykBzWDiM" target="_blank">
 <label for="fname"></label><br>
    First Name: <input type="text" id="fname" name="fname"><br>
   <label for="lname"></label><br>
